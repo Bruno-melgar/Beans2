@@ -2,6 +2,7 @@
 - **Title of the dataset:** Beans
 - **Data underlying publication:** <br/>
 Enhancing Bioactives in Carioca Bean and Rice Co-Product Flours through Macrofungi Solid-State Fermentation
+- **Publication Link:** <br/> https://www.mdpi.com/2076-3417/16/11/5334
 
 ---
 
